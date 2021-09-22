@@ -13,17 +13,18 @@ body{
 }
 #div1 h1{
     color: aqua;
-    margin: 5rem 8rem 0rem 28rem;
+    margin: 5rem 0rem 0rem 12rem;
     font-size: 3.5rem;
     
 }
 #div1 p{
     font-size: 1.5rem;
-    margin: 2rem 8rem 0rem 28rem;
+    margin: 2rem 0rem 0rem 12rem;
+    text-align: justify;
 }
 #div2 {
-    margin-left: 65rem;
-    margin-top: -16%;
+    margin-left: 50rem;
+    margin-top: -25%;
     margin-bottom: -14%;
     margin-right: 26%;
 }
@@ -126,7 +127,7 @@ section p{
 #letBtn{
     border: 1px solid;
     border-radius: 1rem;
-    margin: 2rem 18rem 0rem 30rem;
+    margin: 2rem 18rem 0rem 17rem;
     padding: 0.8rem;
     width: 10rem;
     text-align: center;
